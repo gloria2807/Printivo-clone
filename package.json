@@ -13,13 +13,10 @@
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.10",
     "@tailwindcss/vite": "^4.1.8",
-    "framer-motion": "^12.18.1",
-    "hamburger-react": "^2.5.2",
     "install": "^0.13.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
-    "react-native-vector-icons": "^10.2.0",
     "react-router-dom": "^7.6.2",
     "react-scroll": "^1.9.3",
     "react-use": "^17.6.0"
